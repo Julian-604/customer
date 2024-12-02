@@ -7,7 +7,7 @@
 #### Could you please press Ctrl + Alt + T on your keyboard?
 #### A prompt will appear for you.
 #### In that prompt, you need to type the command `ip a`.
-####
+#### Could you please find the line with the inet address `10.0.0.1` in the result?
 ####
 ####
 ####
