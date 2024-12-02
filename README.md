@@ -14,7 +14,7 @@
 #### I’m continuing with the resolution and will keep you updated if anything comes ups
 #### I understand that you need access to the pen drive. However, due to company policy, the use of pen drives for data copying is restricted, and this decision has been set by the Head of Department. I recommend reaching out to them directly to discuss any exceptions or alternative solutions.
 #### Could you please raise a ticket for this issue? This will help us track the progress and ensure that it is resolved promptly.
-####
+#### I'm not the right person to handle this, but I'll inform the appropriate team, and they will reach out to you shortly.
 ####
 ####
 ####
