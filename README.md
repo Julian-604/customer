@@ -6,7 +6,7 @@
 #### May I know your ID number?
 #### Could you please press Ctrl + Alt + T on your keyboard?
 #### A prompt will appear for you.
-####
+#### In that prompt, you need to type the command `ip a`.
 ####
 ####
 ####
