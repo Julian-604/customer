@@ -12,11 +12,7 @@
 #### If the network switch experiences a power outage, once the power is restored, the switch will come back online, and you will be able to access the network again.
 #### The network switch experienced a power outage, so you couldn't access the network. After the power is restored, the network switch will come back online, and you'll be able to access the network again.
 #### I’m continuing with the resolution and will keep you updated if anything comes ups
-#### You can respond to the customer like this:
-
-"I understand that you need access to the pen drive. However, due to company policy, the use of pen drives for data copying is restricted, and this decision has been set by the Head of Department. I recommend reaching out to them directly to discuss any exceptions or alternative solutions." 
-
-This communicates the situation politely and suggests the right course of action.
+#### I understand that you need access to the pen drive. However, due to company policy, the use of pen drives for data copying is restricted, and this decision has been set by the Head of Department. I recommend reaching out to them directly to discuss any exceptions or alternative solutions.
 ####
 ####
 ####
