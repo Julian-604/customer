@@ -10,7 +10,7 @@
 #### Could you please find the line with the inet address `10.0.0.1` in the result?
 #### Could you please find the line containing the inet address `10.0.0.1` in the output of the `ip a` command?
 #### If the network switch experiences a power outage, once the power is restored, the switch will come back online, and you will be able to access the network again.
-####
+#### The network switch experienced a power outage, so you couldn't access the network. After the power is restored, the network switch will come back online, and you'll be able to access the network again.
 ####
 ####
 ####
