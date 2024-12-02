@@ -8,7 +8,7 @@
 #### A prompt will appear for you.
 #### In that prompt, you need to type the command `ip a`.
 #### Could you please find the line with the inet address `10.0.0.1` in the result?
-####
+#### Could you please find the line containing the inet address `10.0.0.1` in the output of the `ip a` command?
 ####
 ####
 ####
