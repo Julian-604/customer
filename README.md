@@ -16,7 +16,7 @@
 #### Could you please raise a ticket for this issue? This will help us track the progress and ensure that it is resolved promptly.
 #### I'm not the right person to handle this, but I'll inform the appropriate team, and they will reach out to you shortly.
 #### The password has been reset successfully. When you sign in using your username and temporary password, you will be prompted to set a new password.
-####
+#### The new password must contain at least 8 characters, including symbols, numbers, and capital letters.
 ####
 #### I was not aware of that.
 ###
