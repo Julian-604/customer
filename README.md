@@ -21,7 +21,11 @@
 #### I was not aware of that.
 #### You have raised a ticket. Can I review the resolution?
 #### You have raised a ticket. Can I take your system remotely to resolve it?
-###
+#### I will address the network issue soon.
+#### Let me address your concerns regarding the ticket.
+#### The team is working to address the system outage.
+
+It means to deal with or resolve a problem.
 ###
 ###
 ###
