@@ -20,7 +20,7 @@
 ####
 #### I was not aware of that.
 #### You have raised a ticket. Can I review the resolution?
-###
+#### You have raised a ticket. Can I take your system remotely to resolve it?
 ###
 ###
 ###
