@@ -19,7 +19,7 @@
 #### The new password must contain at least 8 characters, including symbols, numbers, and capital letters.
 ####
 #### I was not aware of that.
-###
+#### You have raised a ticket. Can I review the resolution?
 ###
 ###
 ###
